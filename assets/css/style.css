@@ -1,13 +1,16 @@
+/*Provideds dimensions to navbar and aside element */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/*Website's background color */
 body {
   background-color: #d9dcd6;
 }
 
+/* Contains header text font and background color */
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
@@ -16,15 +19,18 @@ body {
   color: #ffffff;
 }
 
+/*Header font size and idsplayes for navbar list items*/
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* Changes the color of the characters "seo" in header text */
 .header h1 .seo {
   color: #d9dcd6;
 }
 
+/*Navlist and object dimensions and font */
 .header div {
   padding-top: 15px;
   margin-right: 20px;
@@ -33,6 +39,7 @@ body {
   font-size: 20px;
 }
 
+/*Eliminates ul bullet points */
 .header div ul {
   list-style-type: none;
 }
@@ -42,15 +49,18 @@ body {
   margin-left: 25px;
 }
 
+/*Styles hyperlinks of list objects */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* Font size of paragraph tags*/
 p {
   font-size: 16px;
 }
 
+/*Contains and styles web background image  */
 .hero {
   height: 800px;
   width: 100%;
@@ -60,6 +70,7 @@ p {
   background-position: center;
 }
 
+/*floats and margins Seo and Social Media images*/
 .float-left {
   float: left;
   margin-right: 25px;
@@ -70,12 +81,14 @@ p {
   margin-left: 25px;
 }
 
+/*Style content boxes*/
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/*Styles the aside element */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -87,6 +100,7 @@ p {
   background-color: #2589bd;
 }
 
+/*Provides text color and margins*/
 .benefit-lead, 
 .benefit-brand, 
 .benefit-cost {
@@ -94,6 +108,7 @@ p {
   color: #ffffff;
 }
 
+/*Centers aside text */
 .benefit-lead h3, 
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -101,7 +116,7 @@ p {
   text-align: center;
 }
 
-
+/*Positions and sizes image icons*/
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -110,7 +125,7 @@ p {
   max-width: 150px;
 }
 
-
+/*Styles and positions aside box and text*/
 .search-engine-optimization, 
 .online-reputation-management,
 .social-media-marketing {
@@ -122,28 +137,30 @@ p {
   color: #ffffff;
 }
 
+/*Sets max height for  image icons*/
 .search-engine-optimization img,
 .online-reputation-management img, 
 .social-media-marketing img {
   max-height: 200px;
 }
 
-.search-engine-optimizationh2, 
+.search-engine-optimization h2, 
 .online-reputation-management h2, 
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/*Upper footer element */
+.footer h2 {
+  font-size: 20px;
+}
 
+/*Styles lower footer element */
 .footer {
   padding: 30px;
   clear: both;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
   text-align: center;
-}
-
-.footer h2 {
-  font-size: 20px;
 }
