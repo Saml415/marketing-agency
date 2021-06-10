@@ -1,6 +1,7 @@
 # <Marketing-Agency>
 
 ## Description
+    
     This repository consists of the files required to run the website for Horiseon Social Solution Services Inc.
  The main purpose the repository was to refactor the existing code in order to make it more accessible to users specifically devs and users who use assistive technology.
  This includes providing semantic headings to each elements to help distinguive each element as well as comments that explain in familiar language what the HTML and CSS laws 
