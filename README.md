@@ -7,9 +7,14 @@
  do. There are many benefits to this form of refactoring as doing such allows webpages to receive more upvotes from search engines thus icreasing web traffic.
  
 ## Usage 
-1.There is one folder labeled as /assets which contains the stylesheet(located via ./assets/css/style.css) and a folder that contains the image files labled images
-2.The HTML content of the webpage can be found in the index.html file in the main folder.
-3.All elements contained with in the HTML file are labled with proper semantic headings and are separated by comments based on their identity while being listed in order of appearance on website.
-4.All attributes listed in the stylesheet are also listed based on order of appearance on website and are separated with comments stating the purpose of properties.
+
+  1.There is one folder labeled as /assets which contains the stylesheet(located via ./assets/css/style.css) and a folder that contains the image files labled images
+
+  2.The HTML content of the webpage can be found in the index.html file in the main folder.
+
+  3.All elements contained with in the HTML file are labled with proper semantic headings and are separated by comments based on their identity while being listed in order of 
+  appearance on website.
+
+  4.All attributes listed in the stylesheet are also listed based on order of appearance on website and are separated with comments stating the purpose of properties.
 
 
