@@ -9,7 +9,7 @@
  
 ## Usage 
 
-  1. There is one folder labeled as /assets which contains the stylesheet(located via ./assets/css/style.css) and a folder that contains the image files labled images
+  1. There is one folder labeled as /assets which contains the stylesheet (located via ./assets/css/style.css) and a folder that contains the image files labled images
 
   2. The HTML content of the webpage can be found in the index.html file in the main folder.
 
